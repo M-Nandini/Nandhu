@@ -9,13 +9,15 @@
 }
 .header{
     background-color:  rgb(193, 231, 255);
-    height:100px;
+    height:600px;
 }
 #navbarNav ul{
     float: right;
 
 }
-
+#navbarNav li{
+    float: right;
+}
 #part{
     align-content: flex-end;
 }
@@ -34,7 +36,7 @@
 }
 
 .inner {
-    width: 600px;
+    width: 400px;
     height: 730px;
     background-color: rgb(255, 255, 255);
     padding: 25px;
@@ -49,7 +51,7 @@
 input{
 
     height: 22px;
-    width: 500px;
+    width: 330px;
     align-items: center;
     align-content: center;
     text-align: center;
@@ -59,6 +61,7 @@ input{
 
 .button{
     text-align: center;
+    
 }
 
 #card{
